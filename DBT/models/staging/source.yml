@@ -1,0 +1,11 @@
+version: 2
+
+sources:
+  - name: food_delivery
+    database: db_online_food_delivery
+    schema: food_delivery_schema
+    tables:
+      - name: customers
+      - name: products
+      - name: transaction_details
+      - name: country_region

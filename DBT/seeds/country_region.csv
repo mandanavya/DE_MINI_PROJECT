@@ -1,0 +1,1761 @@
+customer_id;country;region
+1013;FRANCE;Poitou Charentes
+1014;FRANCE;Ile de France
+1014;FRANCE;Provence Alpes Côte d'azur
+1018;FRANCE;Ile de France
+1028;FRANCE;Provence Alpes Côte d'azur
+1033;FRANCE;Rhône Alpes
+1034;FRANCE;Ile de France
+1034;FRANCE;Aquitaine
+1039;FRANCE;Picardie
+1039;FRANCE;Limousin
+1042;FRANCE;Bourgogne
+1052;FRANCE;Rhône Alpes
+1057;FRANCE;Franche Comté
+1061;FRANCE;Languedoc Roussillon
+1063;FRANCE;Ile de France
+1067;FRANCE;Poitou Charentes
+1068;FRANCE;Rhône Alpes
+1079;FRANCE;Provence Alpes Côte d'azur
+1081;FRANCE;Poitou Charentes
+1082;FRANCE;Midi Pyrénées
+1084;FRANCE;Picardie
+1089;FRANCE;Aquitaine
+1091;FRANCE;Auvergne
+1091;FRANCE;Pays de la Loire
+1093;FRANCE;Ile de France
+1102;FRANCE;Aquitaine
+1104;BELGIQUE;Non-France
+1104;FRANCE;Lorraine
+1106;FRANCE;Ile de France
+1115;FRANCE;Picardie
+1115;FRANCE;Ile de France
+1132;FRANCE;Languedoc Roussillon
+1142;FRANCE;Ile de France
+1163;FRANCE;Aquitaine
+1193;FRANCE;Rhône Alpes
+1197;FRANCE;Ile de France
+1197;FRANCE;Aquitaine
+1198;FRANCE;Ile de France
+1200;FRANCE;Midi Pyrénées
+1201;FRANCE;Midi Pyrénées
+1211;BELGIQUE;Non-France
+1229;FRANCE;DOM/TOM
+1231;FRANCE;DOM/TOM
+1232;FRANCE;Provence Alpes Côte d'azur
+1233;FRANCE;Auvergne
+1234;FRANCE;Rhône Alpes
+1247;FRANCE;Bretagne
+1250;FRANCE;Languedoc Roussillon
+1250;FRANCE;Provence Alpes Côte d'azur
+1266;FRANCE;Ile de France
+1269;FRANCE;Lorraine
+1269;FRANCE;Provence Alpes Côte d'azur
+1285;FRANCE;Rhône Alpes
+1292;FRANCE;Picardie
+1294;FRANCE;Pays de la Loire
+1296;FRANCE;Rhône Alpes
+1296;BELGIQUE;Non-France
+1300;BELGIQUE;Non-France
+1301;FRANCE;Rhône Alpes
+1307;FRANCE;Rhône Alpes
+1308;FRANCE;Rhône Alpes
+1311;FRANCE;Rhône Alpes
+1327;FRANCE;Rhône Alpes
+1332;FRANCE;Picardie
+1351;FRANCE;Picardie
+1357;FRANCE;Picardie
+1361;BELGIQUE;Non-France
+1375;FRANCE;Provence Alpes Côte d'azur
+1378;FRANCE;Provence Alpes Côte d'azur
+1379;BELGIQUE;Non-France
+1379;FRANCE;Provence Alpes Côte d'azur
+1397;FRANCE;Aquitaine
+1397;FRANCE;Provence Alpes Côte d'azur
+1405;FRANCE;Provence Alpes Côte d'azur
+1411;BELGIQUE;Non-France
+1411;FRANCE;Provence Alpes Côte d'azur
+1413;BELGIQUE;Non-France
+1413;FRANCE;Provence Alpes Côte d'azur
+1415;FRANCE;Provence Alpes Côte d'azur
+1426;FRANCE;Provence Alpes Côte d'azur
+1431;FRANCE;Provence Alpes Côte d'azur
+1440;FRANCE;Provence Alpes Côte d'azur
+1445;FRANCE;Provence Alpes Côte d'azur
+1468;FRANCE;Rhône Alpes
+1473;FRANCE;Rhône Alpes
+1475;FRANCE;Rhône Alpes
+1501;FRANCE;Alsace
+1501;FRANCE;Champagne Ardenne
+1509;FRANCE;Alsace
+1510;FRANCE;Languedoc Roussillon
+153;BELGIQUE;Non-France
+1530;FRANCE;Pays de la Loire
+1534;FRANCE;Languedoc Roussillon
+1557;FRANCE;Midi Pyrénées
+1568;FRANCE;Nord Pas de Calais
+1576;BELGIQUE;Non-France
+1576;FRANCE;Ile de France
+1582;FRANCE;Provence Alpes Côte d'azur
+1582;BELGIQUE;Non-France
+1585;FRANCE;Provence Alpes Côte d'azur
+1585;BELGIQUE;Non-France
+1595;FRANCE;Provence Alpes Côte d'azur
+1600;FRANCE;Rhône Alpes
+1604;BELGIQUE;Non-France
+1604;FRANCE;Provence Alpes Côte d'azur
+1608;FRANCE;Provence Alpes Côte d'azur
+1608;FRANCE;Ile de France
+1612;FRANCE;Provence Alpes Côte d'azur
+1623;FRANCE;Provence Alpes Côte d'azur
+1638;FRANCE;Nord Pas de Calais
+1638;FRANCE;Provence Alpes Côte d'azur
+1639;FRANCE;Ile de France
+1639;FRANCE;Provence Alpes Côte d'azur
+1645;FRANCE;Provence Alpes Côte d'azur
+1648;FRANCE;Basse-Normandie
+1661;FRANCE;Basse-Normandie
+1679;FRANCE;Ile de France
+1682;FRANCE;Basse-Normandie
+1691;FRANCE;Basse-Normandie
+1691;BELGIQUE;Non-France
+1700;FRANCE;Basse-Normandie
+1701;FRANCE;Basse-Normandie
+1706;FRANCE;Auvergne
+1719;FRANCE;Poitou Charentes
+1736;FRANCE;Poitou Charentes
+1754;FRANCE;Bretagne
+1770;FRANCE;Poitou Charentes
+1775;FRANCE;Poitou Charentes
+1781;FRANCE;Poitou Charentes
+1781;FRANCE;Midi Pyrénées
+1782;FRANCE;Poitou Charentes
+1788;FRANCE;Poitou Charentes
+1792;FRANCE;Poitou Charentes
+1792;BELGIQUE;Non-France
+1804;FRANCE;Centre
+1808;BELGIQUE;Non-France
+1808;FRANCE;Pays de la Loire
+1820;BELGIQUE;Non-France
+1820;FRANCE;Centre
+1834;FRANCE;Ile de France
+1838;FRANCE;Limousin
+1851;FRANCE;Ile de France
+1851;FRANCE;Corse
+1851;BELGIQUE;Non-France
+1856;FRANCE;Corse
+1856;FRANCE;Ile de France
+1867;FRANCE;Corse
+1872;FRANCE;Corse
+1876;FRANCE;Corse
+1886;FRANCE;Bourgogne
+1892;FRANCE;Bourgogne
+1893;FRANCE;Bourgogne
+1897;FRANCE;Bourgogne
+1908;FRANCE;Bourgogne
+1909;BELGIQUE;Non-France
+1912;FRANCE;Ile de France
+1915;FRANCE;Limousin
+1919;FRANCE;Lorraine
+193;BELGIQUE;Non-France
+1933;FRANCE;Aquitaine
+1935;FRANCE;Aquitaine
+1936;FRANCE;Aquitaine
+1941;FRANCE;Aquitaine
+1943;FRANCE;Aquitaine
+1948;FRANCE;Aquitaine
+1951;FRANCE;Aquitaine
+1971;FRANCE;Franche Comté
+1975;FRANCE;Franche Comté
+1980;FRANCE;Franche Comté
+1994;FRANCE;Rhône Alpes
+2000;FRANCE;Rhône Alpes
+2004;FRANCE;Rhône Alpes
+2005;FRANCE;Rhône Alpes
+2012;FRANCE;Rhône Alpes
+2021;FRANCE;Ile de France
+2031;FRANCE;Rhône Alpes
+2036;FRANCE;Haute Normandie
+2036;FRANCE;Ile de France
+2040;FRANCE;Haute Normandie
+2054;FRANCE;Haute Normandie
+20569;FRANCE;Ile de France
+20727;FRANCE;Ile de France
+2073;FRANCE;Haute Normandie
+2076;FRANCE;Bretagne
+2085;FRANCE;Bretagne
+2092;FRANCE;Bretagne
+20982;FRANCE;Ile de France
+2114;FRANCE;Bretagne
+21167;FRANCE;Midi Pyrénées
+2121;BELGIQUE;Non-France
+2121;FRANCE;Bretagne
+2137;FRANCE;Aquitaine
+2139;FRANCE;Bretagne
+2149;FRANCE;Bretagne
+21531;FRANCE;Ile de France
+2156;FRANCE;Languedoc Roussillon
+2164;FRANCE;Ile de France
+2164;FRANCE;Languedoc Roussillon
+2168;FRANCE;Languedoc Roussillon
+2172;FRANCE;Languedoc Roussillon
+2175;FRANCE;Languedoc Roussillon
+2179;FRANCE;Languedoc Roussillon
+2182;FRANCE;Ile de France
+2182;FRANCE;Languedoc Roussillon
+2185;FRANCE;Languedoc Roussillon
+21926;FRANCE;Ile de France
+2193;FRANCE;Languedoc Roussillon
+21976;FRANCE;Ile de France
+2198;FRANCE;Languedoc Roussillon
+2202;BELGIQUE;Non-France
+2204;FRANCE;Midi Pyrénées
+2205;FRANCE;Midi Pyrénées
+2205;FRANCE;Ile de France
+221;BELGIQUE;Non-France
+2210;FRANCE;Midi Pyrénées
+2222;FRANCE;Midi Pyrénées
+2230;FRANCE;Midi Pyrénées
+2232;FRANCE;Midi Pyrénées
+2232;FRANCE;Ile de France
+2236;FRANCE;Midi Pyrénées
+2238;FRANCE;Ile de France
+2244;FRANCE;Midi Pyrénées
+2254;FRANCE;Midi Pyrénées
+2260;FRANCE;Midi Pyrénées
+22677;FRANCE;Languedoc Roussillon
+2269;FRANCE;Midi Pyrénées
+2278;FRANCE;Midi Pyrénées
+2284;FRANCE;Ile de France
+22888;FRANCE;Ile de France
+2295;FRANCE;Aquitaine
+23001;FRANCE;Ile de France
+2306;FRANCE;Aquitaine
+2321;FRANCE;Alsace
+2321;FRANCE;Aquitaine
+23233;FRANCE;Basse-Normandie
+23274;FRANCE;Basse-Normandie
+2328;FRANCE;Aquitaine
+23293;FRANCE;Basse-Normandie
+23319;FRANCE;Basse-Normandie
+23342;FRANCE;Basse-Normandie
+23348;FRANCE;Basse-Normandie
+23352;FRANCE;Basse-Normandie
+23354;FRANCE;Basse-Normandie
+23368;FRANCE;Basse-Normandie
+2338;FRANCE;Aquitaine
+2339;FRANCE;Aquitaine
+23401;FRANCE;Haute Normandie
+2346;FRANCE;Aquitaine
+23475;FRANCE;Basse-Normandie
+23538;FRANCE;Haute Normandie
+23541;FRANCE;Haute Normandie
+2357;FRANCE;Ile de France
+23593;FRANCE;Haute Normandie
+23598;FRANCE;Haute Normandie
+2360;FRANCE;Ile de France
+2360;FRANCE;Aquitaine
+23650;FRANCE;Haute Normandie
+23666;FRANCE;Haute Normandie
+23684;FRANCE;Haute Normandie
+23693;FRANCE;Haute Normandie
+23695;FRANCE;Haute Normandie
+23712;FRANCE;Haute Normandie
+23715;FRANCE;Haute Normandie
+2380;FRANCE;Languedoc Roussillon
+23860;FRANCE;Pays de la Loire
+23899;FRANCE;Pays de la Loire
+2390;FRANCE;Languedoc Roussillon
+23927;FRANCE;Ile de France
+24020;FRANCE;Pays de la Loire
+24042;FRANCE;Pays de la Loire
+2407;FRANCE;Haute Normandie
+24091;FRANCE;Pays de la Loire
+2410;FRANCE;Languedoc Roussillon
+24120;FRANCE;Pays de la Loire
+24227;FRANCE;Pays de la Loire
+24231;FRANCE;Pays de la Loire
+24234;FRANCE;Pays de la Loire
+2424;FRANCE;Centre
+24265;FRANCE;Centre
+24284;FRANCE;Centre
+24285;FRANCE;Centre
+24404;FRANCE;Centre
+2442;FRANCE;Bretagne
+2443;FRANCE;Bretagne
+2444;FRANCE;Bretagne
+24461;FRANCE;Pays de la Loire
+2447;FRANCE;Bretagne
+24499;FRANCE;Pays de la Loire
+24500;FRANCE;Pays de la Loire
+2451;BELGIQUE;Non-France
+2451;FRANCE;Basse-Normandie
+2451;FRANCE;Bretagne
+2456;FRANCE;Bretagne
+24578;FRANCE;Pays de la Loire
+24601;FRANCE;Centre
+2464;BELGIQUE;Non-France
+24714;FRANCE;DOM/TOM
+2474;FRANCE;Bretagne
+24772;FRANCE;Bretagne
+2481;FRANCE;Bretagne
+24836;FRANCE;Bretagne
+24885;FRANCE;Bretagne
+25019;FRANCE;Bretagne
+25067;FRANCE;Bretagne
+2511;FRANCE;Champagne Ardenne
+2511;FRANCE;Centre
+25127;FRANCE;Bretagne
+25131;FRANCE;Aquitaine
+25142;FRANCE;Bretagne
+25192;FRANCE;Bretagne
+2526;FRANCE;Ile de France
+2526;FRANCE;Centre
+2530;FRANCE;Centre
+2530;FRANCE;Provence Alpes Côte d'azur
+25300;FRANCE;Nord Pas de Calais
+25307;FRANCE;Nord Pas de Calais
+25321;FRANCE;Nord Pas de Calais
+2541;FRANCE;Centre
+2549;FRANCE;Centre
+25508;FRANCE;Nord Pas de Calais
+25550;FRANCE;Nord Pas de Calais
+25553;FRANCE;Rhône Alpes
+25580;FRANCE;Nord Pas de Calais
+25623;FRANCE;Nord Pas de Calais
+25628;FRANCE;Nord Pas de Calais
+2569;FRANCE;Centre
+257;BELGIQUE;Non-France
+25703;FRANCE;Picardie
+2572;FRANCE;Centre
+25772;FRANCE;Picardie
+2580;FRANCE;Centre
+2581;FRANCE;Centre
+25852;FRANCE;Picardie
+25866;FRANCE;Picardie
+2599;FRANCE;Rhône Alpes
+25993;FRANCE;Picardie
+26003;FRANCE;Champagne Ardenne
+2601;FRANCE;Rhône Alpes
+2602;FRANCE;Rhône Alpes
+2607;FRANCE;Rhône Alpes
+26093;FRANCE;Nord Pas de Calais
+26099;FRANCE;Nord Pas de Calais
+261;BELGIQUE;Non-France
+26132;FRANCE;Nord Pas de Calais
+2617;FRANCE;Rhône Alpes
+26182;FRANCE;Nord Pas de Calais
+2619;FRANCE;Rhône Alpes
+26191;FRANCE;Nord Pas de Calais
+26197;FRANCE;Nord Pas de Calais
+26226;FRANCE;Nord Pas de Calais
+26305;FRANCE;Lorraine
+2635;FRANCE;Rhône Alpes
+26388;FRANCE;Bourgogne
+26389;FRANCE;Bourgogne
+26401;FRANCE;Bourgogne
+2647;FRANCE;Rhône Alpes
+26498;FRANCE;Franche Comté
+2652;FRANCE;Rhône Alpes
+26578;FRANCE;Franche Comté
+266;FRANCE;Ile de France
+26669;FRANCE;Lorraine
+26694;FRANCE;Lorraine
+26784;FRANCE;Lorraine
+2679;FRANCE;Bretagne
+26861;FRANCE;Franche Comté
+26871;FRANCE;Franche Comté
+26876;FRANCE;Bourgogne
+268963;FRANCE;Centre
+268969;FRANCE;Provence Alpes Côte d'azur
+269087;FRANCE;Nord Pas de Calais
+26921;FRANCE;Bourgogne
+269332;FRANCE;Aquitaine
+269346;FRANCE;Languedoc Roussillon
+269484;FRANCE;DOM/TOM
+269501;FRANCE;Ile de France
+269556;FRANCE;Ile de France
+269562;FRANCE;DOM/TOM
+269571;FRANCE;Ile de France
+269573;FRANCE;Nord Pas de Calais
+269619;FRANCE;Ile de France
+269630;FRANCE;Ile de France
+269633;FRANCE;Ile de France
+269638;FRANCE;Ile de France
+269644;FRANCE;Centre
+269681;FRANCE;Alsace
+269693;FRANCE;Rhône Alpes
+269729;FRANCE;Rhône Alpes
+269732;FRANCE;Ile de France
+269739;FRANCE;Ile de France
+269743;FRANCE;Ile de France
+269746;FRANCE;Ile de France
+269765;FRANCE;Ile de France
+269766;FRANCE;Ile de France
+269770;FRANCE;Ile de France
+269801;FRANCE;Ile de France
+269807;FRANCE;Ile de France
+269831;FRANCE;Haute Normandie
+269853;FRANCE;Lorraine
+269865;FRANCE;Bourgogne
+269881;FRANCE;Etranger
+269907;FRANCE;Basse-Normandie
+269926;FRANCE;Haute Normandie
+2700;FRANCE;Centre
+270005;FRANCE;Nord Pas de Calais
+270009;FRANCE;Languedoc Roussillon
+270012;FRANCE;Provence Alpes Côte d'azur
+270021;FRANCE;Nord Pas de Calais
+270025;FRANCE;Champagne Ardenne
+270136;FRANCE;Languedoc Roussillon
+270186;FRANCE;Aquitaine
+270316;FRANCE;Rhône Alpes
+270366;FRANCE;Nord Pas de Calais
+270367;FRANCE;Alsace
+270396;FRANCE;Midi Pyrénées
+270448;FRANCE;Bretagne
+270468;FRANCE;Ile de France
+270476;FRANCE;Nord Pas de Calais
+270492;FRANCE;Aquitaine
+270521;FRANCE;Ile de France
+270563;FRANCE;Aquitaine
+270622;FRANCE;Rhône Alpes
+270696;FRANCE;Ile de France
+270768;FRANCE;Ile de France
+270790;FRANCE;Champagne Ardenne
+270820;FRANCE;Rhône Alpes
+270865;FRANCE;DOM/TOM
+270899;FRANCE;Provence Alpes Côte d'azur
+270924;FRANCE;Ile de France
+270951;FRANCE;Bourgogne
+270988;FRANCE;Centre
+2710;FRANCE;Centre
+271005;FRANCE;Pays de la Loire
+271018;FRANCE;Alsace
+271027;FRANCE;Basse-Normandie
+271040;FRANCE;Rhône Alpes
+271044;FRANCE;Picardie
+271046;FRANCE;Ile de France
+271060;FRANCE;Ile de France
+271065;FRANCE;Pays de la Loire
+271067;FRANCE;Bretagne
+271109;FRANCE;Nord Pas de Calais
+271111;FRANCE;Haute Normandie
+271112;FRANCE;Ile de France
+271125;FRANCE;Rhône Alpes
+271157;FRANCE;Picardie
+271164;FRANCE;Provence Alpes Côte d'azur
+271168;FRANCE;Rhône Alpes
+271176;FRANCE;Corse
+271191;FRANCE;Basse-Normandie
+271197;FRANCE;Bretagne
+271198;FRANCE;Haute Normandie
+271202;FRANCE;Aquitaine
+271210;FRANCE;Provence Alpes Côte d'azur
+271211;FRANCE;Rhône Alpes
+271221;FRANCE;Provence Alpes Côte d'azur
+271232;FRANCE;Haute Normandie
+271236;FRANCE;Provence Alpes Côte d'azur
+271249;FRANCE;Nord Pas de Calais
+271254;FRANCE;Provence Alpes Côte d'azur
+271265;FRANCE;Lorraine
+271266;FRANCE;Languedoc Roussillon
+271270;FRANCE;Ile de France
+271276;FRANCE;Ile de France
+271280;FRANCE;Ile de France
+271284;FRANCE;Pays de la Loire
+271287;FRANCE;Aquitaine
+271289;FRANCE;Pays de la Loire
+271294;FRANCE;Aquitaine
+271297;FRANCE;Ile de France
+271332;FRANCE;Ile de France
+271339;FRANCE;Limousin
+271347;FRANCE;Bretagne
+271351;FRANCE;Rhône Alpes
+271357;FRANCE;Ile de France
+271362;FRANCE;Provence Alpes Côte d'azur
+271368;FRANCE;Haute Normandie
+271373;FRANCE;Pays de la Loire
+271375;FRANCE;Aquitaine
+271379;FRANCE;Languedoc Roussillon
+271385;FRANCE;Aquitaine
+271398;FRANCE;Lorraine
+271401;FRANCE;Ile de France
+271403;FRANCE;Ile de France
+271412;FRANCE;Bourgogne
+271420;FRANCE;Rhône Alpes
+271422;FRANCE;Rhône Alpes
+271423;FRANCE;Ile de France
+271425;FRANCE;Midi Pyrénées
+271427;FRANCE;Provence Alpes Côte d'azur
+271431;FRANCE;Alsace
+271434;FRANCE;Pays de la Loire
+271440;FRANCE;Bretagne
+271447;FRANCE;Rhône Alpes
+271465;FRANCE;Ile de France
+271470;FRANCE;Aquitaine
+271473;FRANCE;Bretagne
+271486;FRANCE;Midi Pyrénées
+271488;FRANCE;Poitou Charentes
+271496;FRANCE;Ile de France
+271501;FRANCE;Pays de la Loire
+271502;FRANCE;Pays de la Loire
+271503;FRANCE;Aquitaine
+271515;FRANCE;Aquitaine
+271516;FRANCE;Poitou Charentes
+271518;FRANCE;Rhône Alpes
+271520;FRANCE;Nord Pas de Calais
+271525;FRANCE;Languedoc Roussillon
+271528;FRANCE;Lorraine
+271541;FRANCE;Bretagne
+271546;FRANCE;Ile de France
+271551;FRANCE;Ile de France
+271560;FRANCE;Basse-Normandie
+271564;FRANCE;Provence Alpes Côte d'azur
+271565;FRANCE;Aquitaine
+271568;FRANCE;Aquitaine
+271570;FRANCE;Poitou Charentes
+271576;FRANCE;Franche Comté
+271580;FRANCE;Aquitaine
+271595;FRANCE;Lorraine
+271596;FRANCE;Ile de France
+271605;FRANCE;Aquitaine
+271615;FRANCE;Picardie
+271616;FRANCE;Rhône Alpes
+27162;FRANCE;Alsace
+271630;FRANCE;Ile de France
+271631;FRANCE;Ile de France
+271636;FRANCE;Aquitaine
+271639;FRANCE;Poitou Charentes
+271640;FRANCE;Midi Pyrénées
+271643;FRANCE;Ile de France
+271646;FRANCE;Franche Comté
+271663;FRANCE;Auvergne
+271673;FRANCE;Centre
+271674;FRANCE;Provence Alpes Côte d'azur
+271680;FRANCE;Ile de France
+271686;FRANCE;Ile de France
+271700;FRANCE;Rhône Alpes
+271714;FRANCE;Ile de France
+271718;FRANCE;Midi Pyrénées
+271719;FRANCE;Pays de la Loire
+271725;FRANCE;Aquitaine
+271728;FRANCE;Centre
+271736;FRANCE;Ile de France
+271747;FRANCE;Ile de France
+271766;FRANCE;Languedoc Roussillon
+271770;FRANCE;Pays de la Loire
+271772;FRANCE;Ile de France
+271776;FRANCE;Franche Comté
+271779;FRANCE;Ile de France
+271782;FRANCE;Lorraine
+271785;FRANCE;Ile de France
+271787;FRANCE;Ile de France
+271788;FRANCE;Provence Alpes Côte d'azur
+271793;FRANCE;Bretagne
+271811;FRANCE;Provence Alpes Côte d'azur
+271824;FRANCE;Poitou Charentes
+271825;FRANCE;Bretagne
+271826;FRANCE;Franche Comté
+271840;FRANCE;Provence Alpes Côte d'azur
+271842;FRANCE;Auvergne
+271844;FRANCE;Basse-Normandie
+271859;FRANCE;Poitou Charentes
+271867;FRANCE;Ile de France
+271888;FRANCE;Bretagne
+271899;FRANCE;Etranger
+271903;FRANCE;Ile de France
+271912;FRANCE;Ile de France
+271919;FRANCE;Pays de la Loire
+271929;FRANCE;Midi Pyrénées
+271931;FRANCE;Ile de France
+271952;FRANCE;Ile de France
+271956;FRANCE;Rhône Alpes
+271959;FRANCE;Languedoc Roussillon
+271961;FRANCE;Rhône Alpes
+271967;FRANCE;Ile de France
+271976;FRANCE;Languedoc Roussillon
+2720;FRANCE;Centre
+272000;FRANCE;Languedoc Roussillon
+272007;FRANCE;Ile de France
+272008;FRANCE;Provence Alpes Côte d'azur
+272020;FRANCE;Poitou Charentes
+272021;FRANCE;Pays de la Loire
+272024;FRANCE;DOM/TOM
+272030;FRANCE;Auvergne
+272046;FRANCE;Ile de France
+272057;FRANCE;Pays de la Loire
+272061;FRANCE;Pays de la Loire
+272065;FRANCE;Poitou Charentes
+272069;FRANCE;Ile de France
+272073;FRANCE;Bretagne
+272075;FRANCE;Rhône Alpes
+272081;FRANCE;Rhône Alpes
+272082;FRANCE;Provence Alpes Côte d'azur
+272094;FRANCE;Rhône Alpes
+272103;FRANCE;Basse-Normandie
+272111;FRANCE;Languedoc Roussillon
+272120;FRANCE;Centre
+272126;FRANCE;Bretagne
+272142;FRANCE;Centre
+272143;FRANCE;Ile de France
+272145;FRANCE;Languedoc Roussillon
+272154;FRANCE;Nord Pas de Calais
+272162;FRANCE;Midi Pyrénées
+272177;FRANCE;Languedoc Roussillon
+272179;FRANCE;Midi Pyrénées
+272180;FRANCE;Bourgogne
+272184;FRANCE;Rhône Alpes
+272187;FRANCE;Pays de la Loire
+272188;FRANCE;Ile de France
+272199;FRANCE;Languedoc Roussillon
+272200;FRANCE;Midi Pyrénées
+272219;FRANCE;Pays de la Loire
+272221;FRANCE;Provence Alpes Côte d'azur
+272230;FRANCE;Ile de France
+272231;FRANCE;Ile de France
+272237;FRANCE;Haute Normandie
+272241;FRANCE;Haute Normandie
+272254;FRANCE;Poitou Charentes
+272259;FRANCE;Midi Pyrénées
+272269;FRANCE;Aquitaine
+272272;FRANCE;Ile de France
+272293;FRANCE;Ile de France
+272296;FRANCE;Ile de France
+272316;FRANCE;Provence Alpes Côte d'azur
+272330;FRANCE;Rhône Alpes
+272341;FRANCE;Languedoc Roussillon
+272361;FRANCE;Provence Alpes Côte d'azur
+272363;FRANCE;Ile de France
+272398;FRANCE;Picardie
+272407;FRANCE;Rhône Alpes
+272415;FRANCE;Nord Pas de Calais
+272423;FRANCE;Champagne Ardenne
+272439;FRANCE;Rhône Alpes
+272451;FRANCE;Bretagne
+272502;FRANCE;Ile de France
+272518;FRANCE;Poitou Charentes
+272576;FRANCE;Ile de France
+272582;FRANCE;Lorraine
+2726;FRANCE;Rhône Alpes
+272607;FRANCE;Midi Pyrénées
+27294;FRANCE;Alsace
+273;FRANCE;Aquitaine
+27312;FRANCE;Alsace
+2733;FRANCE;Rhône Alpes
+273657;FRANCE;Bretagne
+273689;FRANCE;Pays de la Loire
+273731;FRANCE;Rhône Alpes
+273747;FRANCE;Rhône Alpes
+273805;FRANCE;Provence Alpes Côte d'azur
+273860;FRANCE;Provence Alpes Côte d'azur
+273897;FRANCE;Pays de la Loire
+273925;FRANCE;Ile de France
+273929;FRANCE;Ile de France
+273930;FRANCE;Provence Alpes Côte d'azur
+273938;FRANCE;Ile de France
+273948;FRANCE;Rhône Alpes
+2740;FRANCE;Aquitaine
+274018;FRANCE;Haute Normandie
+274022;FRANCE;Ile de France
+274056;FRANCE;Haute Normandie
+274158;FRANCE;Pays de la Loire
+274163;FRANCE;Ile de France
+27427;FRANCE;Alsace
+274287;FRANCE;Pays de la Loire
+274299;FRANCE;Languedoc Roussillon
+274301;FRANCE;Ile de France
+274309;FRANCE;Pays de la Loire
+274317;FRANCE;Haute Normandie
+274338;FRANCE;Rhône Alpes
+274347;FRANCE;Lorraine
+274353;FRANCE;Pays de la Loire
+274354;FRANCE;Basse-Normandie
+274422;FRANCE;Centre
+274455;FRANCE;Basse-Normandie
+274469;FRANCE;Centre
+274471;FRANCE;Rhône Alpes
+274501;FRANCE;Nord Pas de Calais
+274525;FRANCE;Languedoc Roussillon
+274535;FRANCE;Centre
+275;FRANCE;Ile de France
+27533;FRANCE;Alsace
+27547;FRANCE;Alsace
+2757;FRANCE;Rhône Alpes
+2761;FRANCE;Rhône Alpes
+2771;FRANCE;Auvergne
+2775;FRANCE;Auvergne
+27786;FRANCE;Provence Alpes Côte d'azur
+2782;FRANCE;Auvergne
+2783;FRANCE;Ile de France
+27870;FRANCE;Provence Alpes Côte d'azur
+2796;FRANCE;Pays de la Loire
+2799;FRANCE;Ile de France
+2799;FRANCE;Pays de la Loire
+2802;FRANCE;Pays de la Loire
+28066;FRANCE;Provence Alpes Côte d'azur
+28106;FRANCE;Rhône Alpes
+28117;FRANCE;Rhône Alpes
+2814;FRANCE;Pays de la Loire
+28273;FRANCE;Rhône Alpes
+283;FRANCE;Bretagne
+2832;FRANCE;Centre
+28336;FRANCE;Languedoc Roussillon
+28347;FRANCE;Languedoc Roussillon
+2854;FRANCE;Pays de la Loire
+2858;FRANCE;Pays de la Loire
+2860;FRANCE;Centre
+2862;FRANCE;Centre
+2865;FRANCE;Centre
+2865;FRANCE;Bourgogne
+28683;FRANCE;Ile de France
+2872;FRANCE;Centre
+2874;FRANCE;Centre
+2876;FRANCE;Centre
+288;FRANCE;Ile de France
+2884;FRANCE;Ile de France
+2884;FRANCE;Centre
+28899;FRANCE;Rhône Alpes
+2894;FRANCE;Centre
+2896;FRANCE;Centre
+2900;FRANCE;Centre
+29003;FRANCE;Provence Alpes Côte d'azur
+29004;FRANCE;Centre
+29027;FRANCE;Ile de France
+29037;FRANCE;Languedoc Roussillon
+29052;FRANCE;Ile de France
+29061;FRANCE;Ile de France
+29065;FRANCE;Ile de France
+29067;FRANCE;Ile de France
+29092;FRANCE;Ile de France
+29095;FRANCE;Pays de la Loire
+29107;FRANCE;Ile de France
+2914;FRANCE;Ile de France
+29161;FRANCE;Ile de France
+29169;FRANCE;Auvergne
+29187;FRANCE;Ile de France
+2924;FRANCE;Midi Pyrénées
+29267;FRANCE;Auvergne
+29308;FRANCE;Rhône Alpes
+2934;FRANCE;Aquitaine
+2945;FRANCE;Aquitaine
+29575;FRANCE;Rhône Alpes
+2961;FRANCE;Aquitaine
+29715;FRANCE;Rhône Alpes
+29738;FRANCE;Rhône Alpes
+2974;FRANCE;Pays de la Loire
+2975;FRANCE;Pays de la Loire
+2977;FRANCE;Pays de la Loire
+29823;FRANCE;Rhône Alpes
+29835;FRANCE;Rhône Alpes
+2984;FRANCE;Pays de la Loire
+2986;FRANCE;Pays de la Loire
+2987;FRANCE;Pays de la Loire
+2989;FRANCE;Pays de la Loire
+29907;FRANCE;Rhône Alpes
+2992;FRANCE;Pays de la Loire
+2994;FRANCE;Pays de la Loire
+29940;FRANCE;Rhône Alpes
+29957;FRANCE;Rhône Alpes
+30043;FRANCE;Rhône Alpes
+30114;FRANCE;Rhône Alpes
+30115;FRANCE;Rhône Alpes
+302;BELGIQUE;Non-France
+3020;FRANCE;Pays de la Loire
+3020;FRANCE;Ile de France
+3022;FRANCE;Pays de la Loire
+30259;FRANCE;Rhône Alpes
+3029;FRANCE;Pays de la Loire
+30313;FRANCE;Rhône Alpes
+3035;FRANCE;Basse-Normandie
+30404;FRANCE;Rhône Alpes
+3042;FRANCE;Basse-Normandie
+3047;FRANCE;Basse-Normandie
+30558;FRANCE;Provence Alpes Côte d'azur
+3056;FRANCE;Basse-Normandie
+30567;FRANCE;Provence Alpes Côte d'azur
+3057;FRANCE;Basse-Normandie
+306;FRANCE;Ile de France
+30662;FRANCE;Provence Alpes Côte d'azur
+30674;FRANCE;Provence Alpes Côte d'azur
+3070;FRANCE;Basse-Normandie
+3073;FRANCE;Basse-Normandie
+30737;FRANCE;Provence Alpes Côte d'azur
+3076;FRANCE;Basse-Normandie
+30767;FRANCE;Provence Alpes Côte d'azur
+3077;FRANCE;Basse-Normandie
+3078;FRANCE;Basse-Normandie
+30797;FRANCE;Provence Alpes Côte d'azur
+30849;FRANCE;Provence Alpes Côte d'azur
+309;FRANCE;Ile de France
+30900;FRANCE;Provence Alpes Côte d'azur
+3092;FRANCE;Champagne Ardenne
+3094;FRANCE;Champagne Ardenne
+30972;FRANCE;Provence Alpes Côte d'azur
+3103;FRANCE;Champagne Ardenne
+3107;FRANCE;Centre
+31072;FRANCE;Provence Alpes Côte d'azur
+3109;FRANCE;Champagne Ardenne
+3113;FRANCE;Centre
+3115;FRANCE;Centre
+31168;FRANCE;Provence Alpes Côte d'azur
+31190;FRANCE;Provence Alpes Côte d'azur
+3124;FRANCE;Champagne Ardenne
+31247;FRANCE;Provence Alpes Côte d'azur
+3126;FRANCE;Champagne Ardenne
+3127;FRANCE;Lorraine
+31275;MONACO;Etranger
+31322;FRANCE;Provence Alpes Côte d'azur
+31354;FRANCE;Provence Alpes Côte d'azur
+31453;FRANCE;Provence Alpes Côte d'azur
+31476;FRANCE;Provence Alpes Côte d'azur
+3149;FRANCE;Centre
+3149;FRANCE;Lorraine
+3153;FRANCE;Bretagne
+31792;FRANCE;Provence Alpes Côte d'azur
+3182;FRANCE;Bretagne
+31901;FRANCE;Provence Alpes Côte d'azur
+3191;FRANCE;Bretagne
+3192;FRANCE;Bretagne
+31994;FRANCE;Provence Alpes Côte d'azur
+32023;FRANCE;DOM/TOM
+32029;FRANCE;Provence Alpes Côte d'azur
+3204;FRANCE;Etranger
+3205;FRANCE;Lorraine
+32071;FRANCE;Nord Pas de Calais
+32103;FRANCE;Provence Alpes Côte d'azur
+32128;FRANCE;Provence Alpes Côte d'azur
+3213;FRANCE;Lorraine
+3214;FRANCE;Lorraine
+32160;FRANCE;Provence Alpes Côte d'azur
+32168;FRANCE;Provence Alpes Côte d'azur
+32211;FRANCE;Provence Alpes Côte d'azur
+32225;FRANCE;Provence Alpes Côte d'azur
+32285;FRANCE;Provence Alpes Côte d'azur
+32291;FRANCE;Provence Alpes Côte d'azur
+3232;FRANCE;Lorraine
+3237;FRANCE;Lorraine
+32397;FRANCE;Provence Alpes Côte d'azur
+3243;FRANCE;Lorraine
+3243;FRANCE;Picardie
+32458;FRANCE;Provence Alpes Côte d'azur
+3247;FRANCE;Lorraine
+32481;FRANCE;Provence Alpes Côte d'azur
+3258;FRANCE;Bourgogne
+3263;FRANCE;Bourgogne
+32666;FRANCE;Provence Alpes Côte d'azur
+32674;FRANCE;Provence Alpes Côte d'azur
+32737;FRANCE;Provence Alpes Côte d'azur
+32740;FRANCE;Provence Alpes Côte d'azur
+32880;FRANCE;Poitou Charentes
+3295;FRANCE;Nord Pas de Calais
+32954;FRANCE;Poitou Charentes
+32956;FRANCE;Poitou Charentes
+32987;FRANCE;Poitou Charentes
+33029;FRANCE;Poitou Charentes
+33039;FRANCE;Poitou Charentes
+33045;FRANCE;Poitou Charentes
+33061;FRANCE;Poitou Charentes
+33072;FRANCE;Poitou Charentes
+3314;FRANCE;Nord Pas de Calais
+33150;FRANCE;Poitou Charentes
+3317;FRANCE;Picardie
+33289;FRANCE;Aquitaine
+33301;FRANCE;Aquitaine
+33313;FRANCE;Aquitaine
+3334;FRANCE;Picardie
+3334;FRANCE;Pays de la Loire
+3335;FRANCE;Nord Pas de Calais
+3335;FRANCE;Picardie
+33412;FRANCE;Limousin
+3345;FRANCE;Nord Pas de Calais
+33478;FRANCE;Limousin
+33507;FRANCE;Limousin
+33540;FRANCE;Aquitaine
+33553;FRANCE;Aquitaine
+33591;FRANCE;Aquitaine
+33615;FRANCE;Aquitaine
+3363;FRANCE;Nord Pas de Calais
+33656;FRANCE;Aquitaine
+33664;FRANCE;Aquitaine
+33673;FRANCE;Aquitaine
+33715;FRANCE;Aquitaine
+3378;FRANCE;Nord Pas de Calais
+3381;FRANCE;Ile de France
+3386;FRANCE;Picardie
+33896;FRANCE;Aquitaine
+3390;FRANCE;Picardie
+33919;FRANCE;Aquitaine
+3408;FRANCE;Picardie
+3408;FRANCE;Ile de France
+34173;FRANCE;Aquitaine
+3418;FRANCE;Picardie
+34206;FRANCE;Aquitaine
+3422;FRANCE;Picardie
+34220;FRANCE;Aquitaine
+3424;FRANCE;Picardie
+34265;FRANCE;Aquitaine
+34334;FRANCE;Aquitaine
+3438;FRANCE;Picardie
+3440;FRANCE;Picardie
+3442;FRANCE;Picardie
+34431;FRANCE;Midi Pyrénées
+34449;FRANCE;Midi Pyrénées
+3455;FRANCE;Basse-Normandie
+3459;FRANCE;Basse-Normandie
+3461;FRANCE;Midi Pyrénées
+34628;FRANCE;Midi Pyrénées
+34633;FRANCE;Midi Pyrénées
+3469;FRANCE;Basse-Normandie
+34695;FRANCE;Midi Pyrénées
+34715;FRANCE;Midi Pyrénées
+34717;FRANCE;Midi Pyrénées
+34738;FRANCE;Midi Pyrénées
+3474;FRANCE;Nord Pas de Calais
+34764;FRANCE;Midi Pyrénées
+3479;FRANCE;Nord Pas de Calais
+34878;FRANCE;Midi Pyrénées
+34884;FRANCE;Midi Pyrénées
+34908;FRANCE;Midi Pyrénées
+34952;FRANCE;Midi Pyrénées
+35026;FRANCE;Haute Normandie
+35046;FRANCE;Basse-Normandie
+35054;FRANCE;Languedoc Roussillon
+35080;FRANCE;Bretagne
+35097;FRANCE;Ile de France
+35099;FRANCE;Picardie
+3511;FRANCE;Nord Pas de Calais
+35116;FRANCE;Pays de la Loire
+3514;FRANCE;Languedoc Roussillon
+35144;FRANCE;Franche Comté
+354;FRANCE;Ile de France
+3543;FRANCE;Nord Pas de Calais
+3547;BELGIQUE;Non-France
+35473;FRANCE;Provence Alpes Côte d'azur
+35479;FRANCE;DOM/TOM
+35482;FRANCE;Ile de France
+35487;FRANCE;Ile de France
+35490;FRANCE;DOM/TOM
+35499;FRANCE;Centre
+35555;FRANCE;Midi Pyrénées
+35560;FRANCE;Ile de France
+35596;FRANCE;Picardie
+3560;FRANCE;Auvergne
+3561;FRANCE;Auvergne
+35610;FRANCE;Limousin
+35617;FRANCE;Ile de France
+35656;FRANCE;DOM/TOM
+3566;FRANCE;Auvergne
+35683;FRANCE;Ile de France
+35708;BELGIQUE;Etranger
+35721;FRANCE;Languedoc Roussillon
+35725;FRANCE;Ile de France
+35751;FRANCE;Rhône Alpes
+35762;FRANCE;Ile de France
+35767;FRANCE;Limousin
+35795;FRANCE;DOM/TOM
+3580;FRANCE;Auvergne
+35800;FRANCE;Rhône Alpes
+35802;FRANCE;Languedoc Roussillon
+3581;FRANCE;Auvergne
+3582;FRANCE;Auvergne
+35830;FRANCE;Ile de France
+35837;FRANCE;Rhône Alpes
+35890;FRANCE;DOM/TOM
+35902;FRANCE;Provence Alpes Côte d'azur
+35919;FRANCE;Provence Alpes Côte d'azur
+35920;FRANCE;Ile de France
+3594;FRANCE;Aquitaine
+3594;FRANCE;Ile de France
+3595;FRANCE;Aquitaine
+35951;FRANCE;Rhône Alpes
+35955;FRANCE;Basse-Normandie
+35966;FRANCE;Ile de France
+36019;FRANCE;Ile de France
+36081;FRANCE;Bourgogne
+36097;FRANCE;Ile de France
+36103;FRANCE;Rhône Alpes
+36121;FRANCE;Bourgogne
+36124;FRANCE;Haute Normandie
+36127;FRANCE;Franche Comté
+3614;FRANCE;Aquitaine
+36151;FRANCE;Languedoc Roussillon
+36167;FRANCE;Franche Comté
+36177;FRANCE;Ile de France
+36183;FRANCE;Ile de France
+36199;FRANCE;Ile de France
+36219;FRANCE;Pays de la Loire
+36227;FRANCE;Poitou Charentes
+36252;FRANCE;Ile de France
+36256;FRANCE;Midi Pyrénées
+36284;FRANCE;Provence Alpes Côte d'azur
+3632;FRANCE;Aquitaine
+36324;FRANCE;Ile de France
+36328;FRANCE;Rhône Alpes
+3634;FRANCE;Aquitaine
+36421;FRANCE;Champagne Ardenne
+36423;FRANCE;Bretagne
+36425;FRANCE;Bretagne
+36456;FRANCE;Ile de France
+36463;FRANCE;Pays de la Loire
+36464;FRANCE;Languedoc Roussillon
+3655;FRANCE;Midi Pyrénées
+36568;FRANCE;DOM/TOM
+36589;FRANCE;Ile de France
+3661;FRANCE;Midi Pyrénées
+36630;FRANCE;Pays de la Loire
+36651;FRANCE;Nord Pas de Calais
+36671;FRANCE;Ile de France
+36676;FRANCE;Provence Alpes Côte d'azur
+36705;FRANCE;Ile de France
+3674;MONACO;Etranger
+3674;BELGIQUE;Non-France
+3674;FRANCE;Languedoc Roussillon
+36806;FRANCE;Poitou Charentes
+36818;FRANCE;Languedoc Roussillon
+36852;FRANCE;Aquitaine
+36891;FRANCE;Provence Alpes Côte d'azur
+3695;BELGIQUE;Non-France
+36960;FRANCE;Ile de France
+36967;FRANCE;Lorraine
+36974;FRANCE;Ile de France
+3699;FRANCE;Alsace
+37025;FRANCE;Ile de France
+37041;FRANCE;Ile de France
+37043;FRANCE;Picardie
+37104;FRANCE;Provence Alpes Côte d'azur
+3711;FRANCE;Alsace
+37117;FRANCE;Centre
+37124;FRANCE;Haute Normandie
+37128;FRANCE;Ile de France
+37130;FRANCE;Ile de France
+37174;FRANCE;Midi Pyrénées
+3718;FRANCE;DOM/TOM
+37182;FRANCE;Centre
+37215;FRANCE;Bourgogne
+37247;FRANCE;Ile de France
+37248;LUXEMBOURG;Etranger
+3725;BELGIQUE;Non-France
+3730;FRANCE;Alsace
+37303;FRANCE;Aquitaine
+37318;FRANCE;Midi Pyrénées
+3732;FRANCE;Alsace
+37343;FRANCE;Ile de France
+37350;FRANCE;Provence Alpes Côte d'azur
+37358;FRANCE;Ile de France
+37369;FRANCE;Rhône Alpes
+37382;FRANCE;Rhône Alpes
+37430;FRANCE;Lorraine
+37445;FRANCE;Languedoc Roussillon
+37454;FRANCE;DOM/TOM
+3746;FRANCE;Alsace
+37469;FRANCE;Nord Pas de Calais
+37475;FRANCE;Lorraine
+37488;FRANCE;Nord Pas de Calais
+37568;FRANCE;Ile de France
+37576;FRANCE;Franche Comté
+3758;FRANCE;Alsace
+37608;FRANCE;DOM/TOM
+37628;FRANCE;Ile de France
+37702;FRANCE;Haute Normandie
+3771;FRANCE;Alsace
+37711;FRANCE;Ile de France
+3772;FRANCE;Alsace
+37725;FRANCE;Languedoc Roussillon
+37765;FRANCE;Midi Pyrénées
+37766;FRANCE;Midi Pyrénées
+37769;FRANCE;Bretagne
+3780;FRANCE;Alsace
+37800;FRANCE;Rhône Alpes
+3781;FRANCE;Alsace
+37815;FRANCE;Bretagne
+37838;FRANCE;Provence Alpes Côte d'azur
+37839;FRANCE;Nord Pas de Calais
+37840;FRANCE;Provence Alpes Côte d'azur
+37850;FRANCE;Auvergne
+37857;FRANCE;Languedoc Roussillon
+3786;BELGIQUE;Non-France
+37868;FRANCE;Ile de France
+37909;FRANCE;Ile de France
+37930;FRANCE;Rhône Alpes
+37938;FRANCE;Rhône Alpes
+37940;FRANCE;Rhône Alpes
+37942;FRANCE;Picardie
+37943;FRANCE;Corse
+37949;FRANCE;Rhône Alpes
+37974;FRANCE;Rhône Alpes
+37975;FRANCE;Rhône Alpes
+37979;FRANCE;Ile de France
+38029;FRANCE;Languedoc Roussillon
+38048;FRANCE;Languedoc Roussillon
+38062;FRANCE;Provence Alpes Côte d'azur
+38073;FRANCE;Lorraine
+38086;FRANCE;Midi Pyrénées
+38087;FRANCE;Provence Alpes Côte d'azur
+38108;FRANCE;Lorraine
+38111;FRANCE;Lorraine
+38121;FRANCE;Provence Alpes Côte d'azur
+38131;FRANCE;Ile de France
+38173;FRANCE;Ile de France
+38191;FRANCE;Languedoc Roussillon
+38197;FRANCE;Ile de France
+38220;FRANCE;Auvergne
+3825;FRANCE;Rhône Alpes
+38254;FRANCE;Rhône Alpes
+38289;FRANCE;Provence Alpes Côte d'azur
+38330;FRANCE;Rhône Alpes
+38336;FRANCE;Ile de France
+3834;FRANCE;Ile de France
+38344;FRANCE;Provence Alpes Côte d'azur
+38355;FRANCE;Rhône Alpes
+3837;FRANCE;Ile de France
+38382;FRANCE;Provence Alpes Côte d'azur
+3842;FRANCE;Rhône Alpes
+38470;BELGIQUE;Non-France
+38481;FRANCE;Provence Alpes Côte d'azur
+38497;FRANCE;Provence Alpes Côte d'azur
+38500;FRANCE;Rhône Alpes
+3854;FRANCE;Rhône Alpes
+38545;FRANCE;Pays de la Loire
+38560;FRANCE;Bourgogne
+38575;FRANCE;Provence Alpes Côte d'azur
+38599;FRANCE;Limousin
+38614;FRANCE;Provence Alpes Côte d'azur
+3863;FRANCE;Rhône Alpes
+38655;FRANCE;Ile de France
+3866;FRANCE;Rhône Alpes
+38669;FRANCE;Midi Pyrénées
+3868;FRANCE;Rhône Alpes
+38680;FRANCE;Nord Pas de Calais
+3870;FRANCE;Rhône Alpes
+38735;FRANCE;Nord Pas de Calais
+38737;FRANCE;Provence Alpes Côte d'azur
+38741;FRANCE;Languedoc Roussillon
+38779;FRANCE;Ile de France
+38793;FRANCE;Nord Pas de Calais
+38798;FRANCE;Ile de France
+38800;FRANCE;Aquitaine
+38802;FRANCE;Provence Alpes Côte d'azur
+38803;FRANCE;Bretagne
+38804;FRANCE;Ile de France
+38816;FRANCE;Haute Normandie
+38825;FRANCE;Ile de France
+38847;FRANCE;Ile de France
+38861;FRANCE;Ile de France
+38876;FRANCE;Nord Pas de Calais
+38879;FRANCE;Nord Pas de Calais
+38880;FRANCE;Rhône Alpes
+38883;FRANCE;Rhône Alpes
+3889;FRANCE;Bourgogne
+38891;FRANCE;Rhône Alpes
+38897;FRANCE;Provence Alpes Côte d'azur
+38900;FRANCE;Limousin
+38905;FRANCE;Bretagne
+38916;FRANCE;Ile de France
+38954;FRANCE;Pays de la Loire
+38956;FRANCE;Languedoc Roussillon
+38957;FRANCE;Languedoc Roussillon
+38958;FRANCE;Auvergne
+38963;FRANCE;Haute Normandie
+38968;FRANCE;Provence Alpes Côte d'azur
+3897;FRANCE;Bourgogne
+3897;FRANCE;Franche Comté
+38974;FRANCE;Picardie
+39004;FRANCE;Languedoc Roussillon
+3901;FRANCE;Rhône Alpes
+39038;FRANCE;Nord Pas de Calais
+39043;FRANCE;Ile de France
+39044;FRANCE;Ile de France
+39047;FRANCE;DOM/TOM
+39055;FRANCE;Midi Pyrénées
+39069;FRANCE;Nord Pas de Calais
+39072;FRANCE;Pays de la Loire
+39087;FRANCE;Rhône Alpes
+3909;FRANCE;Bourgogne
+39095;FRANCE;Aquitaine
+39099;FRANCE;Pays de la Loire
+39101;FRANCE;Provence Alpes Côte d'azur
+39102;FRANCE;Lorraine
+39108;FRANCE;Midi Pyrénées
+39126;FRANCE;Ile de France
+39130;FRANCE;Ile de France
+39141;FRANCE;Languedoc Roussillon
+39160;FRANCE;Ile de France
+39168;FRANCE;DOM/TOM
+3918;FRANCE;Bourgogne
+39208;FRANCE;Ile de France
+39209;FRANCE;Centre
+39210;FRANCE;Rhône Alpes
+39224;FRANCE;Rhône Alpes
+39231;FRANCE;Bretagne
+39253;FRANCE;Ile de France
+39255;FRANCE;Limousin
+39265;FRANCE;Provence Alpes Côte d'azur
+39280;FRANCE;Provence Alpes Côte d'azur
+39313;FRANCE;Rhône Alpes
+39316;FRANCE;Bourgogne
+39323;FRANCE;Pays de la Loire
+39349;FRANCE;Ile de France
+39367;FRANCE;Ile de France
+39379;FRANCE;Provence Alpes Côte d'azur
+39417;FRANCE;Basse-Normandie
+39421;FRANCE;Auvergne
+39423;FRANCE;Provence Alpes Côte d'azur
+39441;FRANCE;Rhône Alpes
+39444;FRANCE;Ile de France
+39449;FRANCE;Midi Pyrénées
+3946;FRANCE;Pays de la Loire
+39461;FRANCE;Pays de la Loire
+39480;FRANCE;Ile de France
+39511;FRANCE;Ile de France
+39520;FRANCE;Pays de la Loire
+39531;FRANCE;Rhône Alpes
+39535;FRANCE;Languedoc Roussillon
+39552;FRANCE;Aquitaine
+39553;FRANCE;Provence Alpes Côte d'azur
+39561;FRANCE;Aquitaine
+39564;FRANCE;Aquitaine
+39574;FRANCE;Picardie
+39575;FRANCE;Provence Alpes Côte d'azur
+39576;FRANCE;Provence Alpes Côte d'azur
+39587;FRANCE;Corse
+39600;FRANCE;Pays de la Loire
+39602;FRANCE;Auvergne
+39603;FRANCE;Corse
+39619;FRANCE;Nord Pas de Calais
+39644;FRANCE;Midi Pyrénées
+39650;FRANCE;Rhône Alpes
+39652;FRANCE;Provence Alpes Côte d'azur
+3969;FRANCE;Pays de la Loire
+3970;FRANCE;Rhône Alpes
+3970;FRANCE;Pays de la Loire
+39720;FRANCE;Aquitaine
+39726;FRANCE;Languedoc Roussillon
+39730;FRANCE;Ile de France
+39733;FRANCE;Rhône Alpes
+39749;FRANCE;Bretagne
+39751;TUNISIE;Etranger
+39816;FRANCE;Rhône Alpes
+39834;FRANCE;Provence Alpes Côte d'azur
+39849;FRANCE;Provence Alpes Côte d'azur
+39854;FRANCE;Nord Pas de Calais
+39862;FRANCE;Rhône Alpes
+3987;FRANCE;Rhône Alpes
+39889;FRANCE;Languedoc Roussillon
+39890;FRANCE;Aquitaine
+39899;FRANCE;Franche Comté
+3994;FRANCE;DOM/TOM
+3994;FRANCE;Rhône Alpes
+39947;FRANCE;Poitou Charentes
+39952;FRANCE;Rhône Alpes
+39954;FRANCE;Nord Pas de Calais
+39985;FRANCE;Nord Pas de Calais
+40004;FRANCE;Nord Pas de Calais
+40041;FRANCE;Rhône Alpes
+40043;FRANCE;Languedoc Roussillon
+40048;FRANCE;Bretagne
+40068;FRANCE;Provence Alpes Côte d'azur
+40079;FRANCE;Ile de France
+40089;FRANCE;Languedoc Roussillon
+40118;FRANCE;Nord Pas de Calais
+4012;FRANCE;Rhône Alpes
+4012;FRANCE;Provence Alpes Côte d'azur
+40159;FRANCE;Pays de la Loire
+40182;FRANCE;Rhône Alpes
+40186;FRANCE;Ile de France
+40200;FRANCE;Rhône Alpes
+40204;FRANCE;Lorraine
+40206;FRANCE;Provence Alpes Côte d'azur
+4024;FRANCE;Rhône Alpes
+4024;FRANCE;Provence Alpes Côte d'azur
+40267;FRANCE;Provence Alpes Côte d'azur
+40270;FRANCE;Midi Pyrénées
+40306;FRANCE;Alsace
+40311;FRANCE;Alsace
+40314;FRANCE;Midi Pyrénées
+4033;FRANCE;Rhône Alpes
+40345;FRANCE;Franche Comté
+40347;FRANCE;Rhône Alpes
+4035;FRANCE;Rhône Alpes
+40351;FRANCE;Languedoc Roussillon
+40361;FRANCE;Provence Alpes Côte d'azur
+40365;FRANCE;Provence Alpes Côte d'azur
+40374;FRANCE;Rhône Alpes
+40399;FRANCE;Ile de France
+40404;FRANCE;Nord Pas de Calais
+4041;FRANCE;Provence Alpes Côte d'azur
+40420;FRANCE;Ile de France
+4044;FRANCE;Provence Alpes Côte d'azur
+40443;FRANCE;Rhône Alpes
+40451;FRANCE;Ile de France
+40457;FRANCE;Provence Alpes Côte d'azur
+4047;FRANCE;Rhône Alpes
+40471;FRANCE;Provence Alpes Côte d'azur
+40486;FRANCE;Picardie
+40496;FRANCE;Midi Pyrénées
+40513;FRANCE;Ile de France
+40518;FRANCE;Bourgogne
+4054;FRANCE;Rhône Alpes
+4054;BELGIQUE;Non-France
+4055;FRANCE;Rhône Alpes
+40550;FRANCE;Basse-Normandie
+40554;FRANCE;Rhône Alpes
+40581;FRANCE;Languedoc Roussillon
+40590;FRANCE;Ile de France
+406;FRANCE;Basse-Normandie
+4061;FRANCE;Ile de France
+4061;FRANCE;Haute Normandie
+40613;FRANCE;Ile de France
+40634;FRANCE;Franche Comté
+40635;FRANCE;Centre
+40645;FRANCE;Alsace
+40664;FRANCE;Provence Alpes Côte d'azur
+40682;FRANCE;Bretagne
+40704;FRANCE;Provence Alpes Côte d'azur
+40718;FRANCE;Languedoc Roussillon
+4073;FRANCE;Haute Normandie
+40757;FRANCE;Alsace
+4078;FRANCE;Haute Normandie
+4080;FRANCE;Haute Normandie
+40800;FRANCE;Poitou Charentes
+40817;FRANCE;Alsace
+4082;FRANCE;Ile de France
+40825;FRANCE;Ile de France
+40829;FRANCE;Aquitaine
+40839;FRANCE;Aquitaine
+40848;FRANCE;Nord Pas de Calais
+4085;FRANCE;Haute Normandie
+4085;FRANCE;Provence Alpes Côte d'azur
+40857;FRANCE;Aquitaine
+40878;FRANCE;Rhône Alpes
+40881;FRANCE;Rhône Alpes
+40885;FRANCE;Limousin
+40892;FRANCE;Languedoc Roussillon
+40897;FRANCE;Nord Pas de Calais
+40916;FRANCE;Languedoc Roussillon
+40917;FRANCE;Basse-Normandie
+40919;FRANCE;Ile de France
+40932;FRANCE;Picardie
+40938;FRANCE;Centre
+40946;FRANCE;Aquitaine
+4095;FRANCE;Bretagne
+40950;FRANCE;Haute Normandie
+40952;FRANCE;Aquitaine
+40977;FRANCE;Languedoc Roussillon
+40978;FRANCE;Languedoc Roussillon
+41;BELGIQUE;Non-France
+4100;FRANCE;Haute Normandie
+41020;FRANCE;Franche Comté
+41064;FRANCE;Rhône Alpes
+41068;FRANCE;Rhône Alpes
+41069;FRANCE;Basse-Normandie
+41084;FRANCE;Provence Alpes Côte d'azur
+41093;FRANCE;Auvergne
+41112;FRANCE;Ile de France
+41123;FRANCE;Rhône Alpes
+41158;FRANCE;Bourgogne
+41164;FRANCE;Nord Pas de Calais
+4118;FRANCE;Haute Normandie
+41212;FRANCE;Rhône Alpes
+41256;FRANCE;Haute Normandie
+41265;FRANCE;Languedoc Roussillon
+41298;FRANCE;Midi Pyrénées
+41317;FRANCE;Aquitaine
+41322;FRANCE;Midi Pyrénées
+41323;FRANCE;Nord Pas de Calais
+41328;FRANCE;Basse-Normandie
+4134;FRANCE;Haute Normandie
+4140;FRANCE;Ile de France
+41425;BELGIQUE;Non-France
+4145;FRANCE;Ile de France
+4146;FRANCE;Ile de France
+41465;FRANCE;Rhône Alpes
+41479;FRANCE;Ile de France
+41483;FRANCE;Provence Alpes Côte d'azur
+4150;FRANCE;Ile de France
+41502;BELGIQUE;Non-France
+41513;FRANCE;Languedoc Roussillon
+41530;FRANCE;Midi Pyrénées
+4154;FRANCE;Ile de France
+4154;FRANCE;Provence Alpes Côte d'azur
+41547;FRANCE;Ile de France
+41548;FRANCE;Provence Alpes Côte d'azur
+41550;FRANCE;Rhône Alpes
+41564;FRANCE;Rhône Alpes
+41564;BELGIQUE;Non-France
+41572;FRANCE;Provence Alpes Côte d'azur
+41604;BELGIQUE;Non-France
+41606;FRANCE;Provence Alpes Côte d'azur
+41634;FRANCE;Ile de France
+41636;FRANCE;Provence Alpes Côte d'azur
+41664;FRANCE;Ile de France
+41678;FRANCE;Aquitaine
+41681;FRANCE;Haute Normandie
+41689;FRANCE;Ile de France
+41692;FRANCE;Basse-Normandie
+41695;BELGIQUE;Non-France
+41713;BELGIQUE;Non-France
+41715;FRANCE;Picardie
+41719;FRANCE;Haute Normandie
+41765;FRANCE;Midi Pyrénées
+41773;FRANCE;Ile de France
+41776;MONACO;Etranger
+41779;FRANCE;Aquitaine
+4180;FRANCE;Ile de France
+41801;FRANCE;Midi Pyrénées
+41808;FRANCE;Provence Alpes Côte d'azur
+41825;FRANCE;Provence Alpes Côte d'azur
+4185;FRANCE;Ile de France
+41859;FRANCE;Rhône Alpes
+4190;FRANCE;Ile de France
+41924;FRANCE;Rhône Alpes
+4193;FRANCE;DOM/TOM
+41932;FRANCE;Languedoc Roussillon
+41941;FRANCE;Poitou Charentes
+41949;FRANCE;Aquitaine
+41964;FRANCE;Languedoc Roussillon
+4199;FRANCE;Languedoc Roussillon
+41998;FRANCE;Rhône Alpes
+4200;FRANCE;Ile de France
+4202;BELGIQUE;Non-France
+4202;FRANCE;Ile de France
+42024;FRANCE;Rhône Alpes
+42028;FRANCE;Centre
+42030;FRANCE;Aquitaine
+42056;FRANCE;Midi Pyrénées
+42070;FRANCE;Languedoc Roussillon
+42143;FRANCE;Rhône Alpes
+42173;FRANCE;Provence Alpes Côte d'azur
+42233;FRANCE;Provence Alpes Côte d'azur
+4224;FRANCE;Provence Alpes Côte d'azur
+42241;FRANCE;Ile de France
+42242;FRANCE;Alsace
+42253;FRANCE;Haute Normandie
+42254;FRANCE;Bretagne
+42268;FRANCE;Ile de France
+4231;FRANCE;Ile de France
+42335;FRANCE;Ile de France
+4234;FRANCE;Ile de France
+42370;BELGIQUE;Non-France
+42378;FRANCE;Provence Alpes Côte d'azur
+42382;FRANCE;Aquitaine
+4254;FRANCE;Poitou Charentes
+4262;FRANCE;Poitou Charentes
+4265;FRANCE;Aquitaine
+42666;BELGIQUE;Non-France
+42837;BELGIQUE;Non-France
+4285;FRANCE;Picardie
+4287;FRANCE;Ile de France
+4288;FRANCE;Picardie
+42883;BELGIQUE;Non-France
+4291;FRANCE;Picardie
+42940;BELGIQUE;Non-France
+4301;FRANCE;Picardie
+4329;FRANCE;Ile de France
+4334;FRANCE;Picardie
+4342;FRANCE;Picardie
+4353;FRANCE;Midi Pyrénées
+4357;FRANCE;Midi Pyrénées
+4358;FRANCE;Provence Alpes Côte d'azur
+436;FRANCE;Ile de France
+4361;FRANCE;Midi Pyrénées
+4363;FRANCE;Midi Pyrénées
+4367;FRANCE;Midi Pyrénées
+4374;FRANCE;Midi Pyrénées
+4384;FRANCE;Midi Pyrénées
+4386;FRANCE;Midi Pyrénées
+4387;FRANCE;Midi Pyrénées
+439;FRANCE;Champagne Ardenne
+4400;FRANCE;Midi Pyrénées
+4408;FRANCE;Provence Alpes Côte d'azur
+4414;FRANCE;Provence Alpes Côte d'azur
+4419;FRANCE;Provence Alpes Côte d'azur
+4447;FRANCE;Provence Alpes Côte d'azur
+4457;FRANCE;Provence Alpes Côte d'azur
+4460;FRANCE;Provence Alpes Côte d'azur
+4466;FRANCE;Provence Alpes Côte d'azur
+4470;FRANCE;Provence Alpes Côte d'azur
+4472;FRANCE;Provence Alpes Côte d'azur
+4474;FRANCE;Provence Alpes Côte d'azur
+4477;FRANCE;Ile de France
+4479;FRANCE;Provence Alpes Côte d'azur
+4482;FRANCE;Provence Alpes Côte d'azur
+4486;FRANCE;Provence Alpes Côte d'azur
+44913;BELGIQUE;Non-France
+4492;FRANCE;Provence Alpes Côte d'azur
+44971;BELGIQUE;Non-France
+4505;FRANCE;Provence Alpes Côte d'azur
+4506;FRANCE;DOM/TOM
+4506;FRANCE;Provence Alpes Côte d'azur
+4514;FRANCE;Provence Alpes Côte d'azur
+4520;FRANCE;Provence Alpes Côte d'azur
+4523;FRANCE;Provence Alpes Côte d'azur
+4542;FRANCE;Pays de la Loire
+4543;FRANCE;Pays de la Loire
+4549;FRANCE;Pays de la Loire
+4554;FRANCE;Pays de la Loire
+4557;FRANCE;Pays de la Loire
+45611;BELGIQUE;Non-France
+4563;FRANCE;Poitou Charentes
+4567;FRANCE;Poitou Charentes
+4568;FRANCE;Poitou Charentes
+4569;BELGIQUE;Non-France
+4571;FRANCE;Poitou Charentes
+4581;FRANCE;Poitou Charentes
+4585;FRANCE;Poitou Charentes
+4589;FRANCE;Poitou Charentes
+4593;FRANCE;Limousin
+4597;FRANCE;Limousin
+4599;FRANCE;Limousin
+46015;BELGIQUE;Non-France
+46032;BELGIQUE;Non-France
+46047;BELGIQUE;Non-France
+46049;BELGIQUE;Non-France
+46051;LUXEMBOURG;Non-France
+46057;BELGIQUE;Non-France
+46059;BELGIQUE;Non-France
+46062;BELGIQUE;Non-France
+4612;FRANCE;Limousin
+4612;FRANCE;Ile de France
+4613;FRANCE;Limousin
+4621;FRANCE;Lorraine
+4626;FRANCE;Languedoc Roussillon
+4626;FRANCE;Ile de France
+465;BELGIQUE;Non-France
+4650;FRANCE;Lorraine
+4667;FRANCE;Bourgogne
+4668;FRANCE;Bourgogne
+4680;FRANCE;Bourgogne
+4683;FRANCE;Bourgogne
+4684;FRANCE;Bourgogne
+4686;FRANCE;Bourgogne
+4696;FRANCE;Ile de France
+4700;FRANCE;Ile de France
+4701;FRANCE;Ile de France
+4704;FRANCE;Ile de France
+47073;BELGIQUE;Non-France
+471;BELGIQUE;Non-France
+4710;FRANCE;Ile de France
+4712;FRANCE;Ile de France
+4718;FRANCE;Ile de France
+4721;FRANCE;Ile de France
+4729;FRANCE;Ile de France
+4730;FRANCE;Ile de France
+4737;FRANCE;Ile de France
+4749;FRANCE;Ile de France
+4750;FRANCE;Ile de France
+4769;FRANCE;Ile de France
+4770;FRANCE;Ile de France
+4788;FRANCE;Ile de France
+480;FRANCE;Ile de France
+4803;FRANCE;Ile de France
+4809;FRANCE;Ile de France
+48113;BELGIQUE;Non-France
+4812;FRANCE;Ile de France
+48145;BELGIQUE;Non-France
+48153;BELGIQUE;Non-France
+48177;BELGIQUE;Non-France
+48179;BELGIQUE;Non-France
+48197;BELGIQUE;Non-France
+4826;FRANCE;Auvergne
+4833;FRANCE;DOM/TOM
+4839;FRANCE;DOM/TOM
+4846;FRANCE;Auvergne
+4849;FRANCE;Champagne Ardenne
+4850;FRANCE;Champagne Ardenne
+4858;FRANCE;Champagne Ardenne
+4863;FRANCE;Pays de la Loire
+4864;FRANCE;Pays de la Loire
+4892;FRANCE;Centre
+4903;FRANCE;Lorraine
+4908;FRANCE;Lorraine
+4909;FRANCE;Lorraine
+4912;FRANCE;Lorraine
+4913;FRANCE;Lorraine
+4926;FRANCE;Lorraine
+4931;FRANCE;Lorraine
+4935;FRANCE;Lorraine
+4936;FRANCE;Lorraine
+4948;FRANCE;Franche Comté
+4956;FRANCE;Franche Comté
+4975;FRANCE;Ile de France
+4985;FRANCE;Pays de la Loire
+4994;FRANCE;Champagne Ardenne
+5000;FRANCE;Ile de France
+5012;FRANCE;DOM/TOM
+5014;FRANCE;Haute Normandie
+5026;FRANCE;Provence Alpes Côte d'azur
+5039;FRANCE;Ile de France
+5045;FRANCE;Ile de France
+5065;FRANCE;Rhône Alpes
+5150;FRANCE;Aquitaine
+5152;FRANCE;Ile de France
+5223;FRANCE;Bourgogne
+5233;FRANCE;Ile de France
+5245;FRANCE;Bretagne
+5251;FRANCE;Bretagne
+5282;FRANCE;Bretagne
+5288;FRANCE;Bretagne
+5289;FRANCE;Bretagne
+5304;FRANCE;Ile de France
+5312;MONACO;Etranger
+5315;FRANCE;Lorraine
+5338;FRANCE;Ile de France
+5376;FRANCE;Centre
+5382;FRANCE;Centre
+5387;FRANCE;Centre
+5401;FRANCE;Centre
+5406;FRANCE;Centre
+5408;FRANCE;Centre
+5412;FRANCE;Centre
+5413;FRANCE;Centre
+5441;FRANCE;Provence Alpes Côte d'azur
+5454;FRANCE;Midi Pyrénées
+5464;FRANCE;Centre
+5465;FRANCE;Ile de France
+5476;FRANCE;Franche Comté
+5489;FRANCE;Franche Comté
+5526;FRANCE;Auvergne
+5534;FRANCE;Auvergne
+5537;FRANCE;Auvergne
+5539;FRANCE;Auvergne
+5564;FRANCE;Auvergne
+5564;FRANCE;Ile de France
+5599;FRANCE;Languedoc Roussillon
+564;FRANCE;Pays de la Loire
+567;BELGIQUE;Non-France
+5674;FRANCE;Ile de France
+579;FRANCE;Ile de France
+579;BELGIQUE;Non-France
+5801;FRANCE;Languedoc Roussillon
+5804;FRANCE;Languedoc Roussillon
+5847;FRANCE;Languedoc Roussillon
+5900;FRANCE;Languedoc Roussillon
+5901;FRANCE;Languedoc Roussillon
+592;FRANCE;Provence Alpes Côte d'azur
+598;FRANCE;Rhône Alpes
+5981;FRANCE;Languedoc Roussillon
+5986;FRANCE;Languedoc Roussillon
+601;FRANCE;Bourgogne
+603;FRANCE;Ile de France
+603;FRANCE;Basse-Normandie
+605;FRANCE;Aquitaine
+605;FRANCE;Rhône Alpes
+609;FRANCE;Ile de France
+614;FRANCE;Bretagne
+6154;FRANCE;Ile de France
+6189;FRANCE;Languedoc Roussillon
+6247;FRANCE;Franche Comté
+626;FRANCE;Centre
+6279;FRANCE;Provence Alpes Côte d'azur
+628;FRANCE;Midi Pyrénées
+6334;FRANCE;Auvergne
+638;FRANCE;Nord Pas de Calais
+6407;FRANCE;Provence Alpes Côte d'azur
+641;FRANCE;Bourgogne
+641;FRANCE;Ile de France
+6421;FRANCE;Provence Alpes Côte d'azur
+64460;FRANCE;Alsace
+6450;FRANCE;Provence Alpes Côte d'azur
+646;FRANCE;Ile de France
+646;BELGIQUE;Non-France
+655;BELGIQUE;Non-France
+655;FRANCE;Rhône Alpes
+655;FRANCE;DOM/TOM
+658;FRANCE;Picardie
+664;FRANCE;Midi Pyrénées
+664;BELGIQUE;Non-France
+676;FRANCE;Ile de France
+676;BELGIQUE;Non-France
+692;FRANCE;Ile de France
+693;FRANCE;Languedoc Roussillon
+697;FRANCE;Ile de France
+700;FRANCE;Rhône Alpes
+713;FRANCE;Rhône Alpes
+713;BELGIQUE;Non-France
+719;FRANCE;Ile de France
+721;FRANCE;Provence Alpes Côte d'azur
+724;FRANCE;Ile de France
+725;FRANCE;Ile de France
+726;FRANCE;Bretagne
+728;FRANCE;Languedoc Roussillon
+731;FRANCE;Provence Alpes Côte d'azur
+732;FRANCE;Pays de la Loire
+733;FRANCE;Ile de France
+741;BELGIQUE;Non-France
+741;FRANCE;Basse-Normandie
+748;BELGIQUE;Non-France
+748;FRANCE;Haute Normandie
+751;FRANCE;Bretagne
+752;FRANCE;Ile de France
+753;FRANCE;Ile de France
+755;FRANCE;Ile de France
+755;BELGIQUE;Non-France
+767;FRANCE;Aquitaine
+767;BELGIQUE;Non-France
+774;FRANCE;Ile de France
+795;FRANCE;Bourgogne
+799;FRANCE;Ile de France
+801;FRANCE;Provence Alpes Côte d'azur
+801;BELGIQUE;Non-France
+802;FRANCE;Nord Pas de Calais
+803;FRANCE;Ile de France
+804;FRANCE;Midi Pyrénées
+808;FRANCE;Provence Alpes Côte d'azur
+808;BELGIQUE;Non-France
+808;FRANCE;Languedoc Roussillon
+814;FRANCE;Ile de France
+815;BELGIQUE;Non-France
+815;FRANCE;Centre
+825;FRANCE;Ile de France
+825;BELGIQUE;Non-France
+826;FRANCE;Poitou Charentes
+843;FRANCE;Lorraine
+853;FRANCE;DOM/TOM
+853;BELGIQUE;Non-France
+855;FRANCE;Rhône Alpes
+856;FRANCE;Ile de France
+863;FRANCE;Champagne Ardenne
+863;FRANCE;Poitou Charentes
+871;FRANCE;Aquitaine
+875;FRANCE;Lorraine
+877;FRANCE;Ile de France
+877;BELGIQUE;Non-France
+888;FRANCE;Pays de la Loire
+893;FRANCE;Ile de France
+895;FRANCE;Rhône Alpes
+897;FRANCE;Languedoc Roussillon
+903;FRANCE;Provence Alpes Côte d'azur
+905;FRANCE;Ile de France
+906;FRANCE;Ile de France
+906;FRANCE;Rhône Alpes
+910;FRANCE;Ile de France
+912;FRANCE;Ile de France
+913;BELGIQUE;Non-France
+913;FRANCE;Centre
+919;FRANCE;Champagne Ardenne
+930;FRANCE;Ile de France
+931;BELGIQUE;Non-France
+931;FRANCE;DOM/TOM
+934;BELGIQUE;Non-France
+934;FRANCE;Ile de France
+937;FRANCE;Limousin
+942;FRANCE;Bretagne
+942;FRANCE;Pays de la Loire
+943;FRANCE;Picardie
+944;FRANCE;Aquitaine
+949;FRANCE;Nord Pas de Calais
+949;FRANCE;Basse-Normandie
+960;FRANCE;Limousin
+965;FRANCE;Languedoc Roussillon
+965;FRANCE;Ile de France
+976;FRANCE;Ile de France
+976;FRANCE;Rhône Alpes
+976;BELGIQUE;Non-France
+979;FRANCE;Haute Normandie
+986;BELGIQUE;Non-France
+986;FRANCE;Rhône Alpes
+986;FRANCE;Basse-Normandie
+987;FRANCE;Centre
+995;BELGIQUE;Non-France
+995;FRANCE;Provence Alpes Côte d'azur
