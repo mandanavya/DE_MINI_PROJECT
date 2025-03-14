@@ -1,0 +1,147 @@
+{
+	"$schema": "http://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"type": "string",
+			"metadata": "Data Factory name",
+			"defaultValue": "onlinefooddeliverydf"
+		},
+		"SqlServer1_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'SqlServer1'"
+		},
+		"SqlServer2_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'SqlServer2'"
+		},
+		"mysqlserver_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'mysqlserver'"
+		},
+		"snowflake_password": {
+			"type": "secureString",
+			"metadata": "Secure string for 'password' of 'snowflake'"
+		},
+		"SqlServer1_properties_typeProperties_server": {
+			"type": "string",
+			"defaultValue": "JM-DKT-028"
+		},
+		"SqlServer1_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "online_food_delivery"
+		},
+		"SqlServer1_properties_typeProperties_userName": {
+			"type": "string",
+			"defaultValue": "LinuxVM"
+		},
+		"SqlServer2_properties_typeProperties_server": {
+			"type": "string",
+			"defaultValue": "JM-DKT-028"
+		},
+		"SqlServer2_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "online_food_delivery"
+		},
+		"SqlServer2_properties_typeProperties_userName": {
+			"type": "string",
+			"defaultValue": "azuread\\mandanavyavenkatasai"
+		},
+		"linkedServiceforStaging_sasUri": {
+			"type": "secureString",
+			"metadata": "Secure string for 'sasUri' of 'linkedServiceforStaging'"
+		},
+		"mysqlserver_properties_typeProperties_server": {
+			"type": "string",
+			"defaultValue": "JM-DKT-028"
+		},
+		"mysqlserver_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "online_food_delivery"
+		},
+		"mysqlserver_properties_typeProperties_userName": {
+			"type": "string",
+			"defaultValue": "AzureAD\\MandaNavyaVenkataSai"
+		},
+		"snowflake_properties_typeProperties_database": {
+			"type": "string",
+			"defaultValue": "db_online_food_delivery"
+		},
+		"containerUri": {
+			"type": "string",
+			"metadata": "URI to storage account containing linked ARM templates"
+		},
+		"containerSasToken": {
+			"type": "string",
+			"metadata": "Sas token to storage account containing linked ARM templates"
+		}
+	},
+	"variables": {
+		"factoryId": "[concat('Microsoft.DataFactory/factories/', parameters('factoryName'))]"
+	},
+	"resources": [
+		{
+			"name": "onlinefooddeliverydf_ArmTemplate_0",
+			"type": "Microsoft.Resources/deployments",
+			"apiVersion": "2024-03-01",
+			"properties": {
+				"mode": "incremental",
+				"templateLink": {
+					"uri": "[concat(parameters('containerUri'), '/ArmTemplate_0.json', parameters('containerSasToken'))]",
+					"contentVersion": "1.0.0.0"
+				},
+				"parameters": {
+					"factoryName": {
+						"value": "[parameters('factoryName')]"
+					},
+					"SqlServer1_password": {
+						"value": "[parameters('SqlServer1_password')]"
+					},
+					"snowflake_password": {
+						"value": "[parameters('snowflake_password')]"
+					},
+					"SqlServer2_password": {
+						"value": "[parameters('SqlServer2_password')]"
+					},
+					"mysqlserver_password": {
+						"value": "[parameters('mysqlserver_password')]"
+					},
+					"SqlServer1_properties_typeProperties_server": {
+						"value": "[parameters('SqlServer1_properties_typeProperties_server')]"
+					},
+					"SqlServer1_properties_typeProperties_database": {
+						"value": "[parameters('SqlServer1_properties_typeProperties_database')]"
+					},
+					"SqlServer1_properties_typeProperties_userName": {
+						"value": "[parameters('SqlServer1_properties_typeProperties_userName')]"
+					},
+					"linkedServiceforStaging_sasUri": {
+						"value": "[parameters('linkedServiceforStaging_sasUri')]"
+					},
+					"snowflake_properties_typeProperties_database": {
+						"value": "[parameters('snowflake_properties_typeProperties_database')]"
+					},
+					"SqlServer2_properties_typeProperties_server": {
+						"value": "[parameters('SqlServer2_properties_typeProperties_server')]"
+					},
+					"SqlServer2_properties_typeProperties_database": {
+						"value": "[parameters('SqlServer2_properties_typeProperties_database')]"
+					},
+					"SqlServer2_properties_typeProperties_userName": {
+						"value": "[parameters('SqlServer2_properties_typeProperties_userName')]"
+					},
+					"mysqlserver_properties_typeProperties_server": {
+						"value": "[parameters('mysqlserver_properties_typeProperties_server')]"
+					},
+					"mysqlserver_properties_typeProperties_database": {
+						"value": "[parameters('mysqlserver_properties_typeProperties_database')]"
+					},
+					"mysqlserver_properties_typeProperties_userName": {
+						"value": "[parameters('mysqlserver_properties_typeProperties_userName')]"
+					}
+				}
+			},
+			"dependsOn": []
+		}
+	]
+}

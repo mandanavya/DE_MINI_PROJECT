@@ -1,0 +1,60 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "onlinefooddeliverydf"
+		},
+		"SqlServer1_password": {
+			"value": ""
+		},
+		"SqlServer2_password": {
+			"value": ""
+		},
+		"mysqlserver_password": {
+			"value": ""
+		},
+		"snowflake_password": {
+			"value": ""
+		},
+		"SqlServer1_properties_typeProperties_server": {
+			"value": "JM-DKT-028"
+		},
+		"SqlServer1_properties_typeProperties_database": {
+			"value": "online_food_delivery"
+		},
+		"SqlServer1_properties_typeProperties_userName": {
+			"value": "LinuxVM"
+		},
+		"SqlServer2_properties_typeProperties_server": {
+			"value": "JM-DKT-028"
+		},
+		"SqlServer2_properties_typeProperties_database": {
+			"value": "online_food_delivery"
+		},
+		"SqlServer2_properties_typeProperties_userName": {
+			"value": "azuread\\mandanavyavenkatasai"
+		},
+		"linkedServiceforStaging_sasUri": {
+			"value": ""
+		},
+		"mysqlserver_properties_typeProperties_server": {
+			"value": "JM-DKT-028"
+		},
+		"mysqlserver_properties_typeProperties_database": {
+			"value": "online_food_delivery"
+		},
+		"mysqlserver_properties_typeProperties_userName": {
+			"value": "AzureAD\\MandaNavyaVenkataSai"
+		},
+		"snowflake_properties_typeProperties_database": {
+			"value": "db_online_food_delivery"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
